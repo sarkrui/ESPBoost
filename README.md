@@ -12,5 +12,8 @@ The ESPBoost is an ESP32 shield combines a **MPU6050** (6-axis gyro/acceleromete
 
 ### Pinout 
 
-![URXJgE79ula2dnN](https://i.loli.net/2020/06/04/URXJgE79ula2dnN.png)
+![9usdo4JG2DMlhZ7](https://i.loli.net/2020/06/05/9usdo4JG2DMlhZ7.png)
+
+### Sample 
+If you're interested in the field of Internet of Tangible Things, this shield may help. For sample inquiry, please drop me an email hi@pxing.design
 
