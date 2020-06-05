@@ -1,6 +1,8 @@
 # ESPBoost
-![ofFC1VaYGIurwE2](https://i.loli.net/2020/06/06/ofFC1VaYGIurwE2.jpg)
+![2SDCT8eYnrJI9NF](https://i.loli.net/2020/06/06/2SDCT8eYnrJI9NF.jpg)
 
+
+### Introduction
 The ESPBoost is an ESP32 shield combines a **MPU6050** (6-axis gyro/accelerometer, via **SDA/SCL** GPIO), 2 H-Bridge motor drivers (**L9110s**, via GPIO **5**, **16**,**17**,**18** ), and a DC-DC (4.5V ~17v to 5V) power regulator (for powering up the ESP board via USB, allowing to charge Li-Po and the ESP32 MCU). Attaching this shield onto a Lolin32, actuations that demand high current (max. 800mA for each bridge), for example, driving two DC motors, and detections of angles, acceleration can be easily made possible. 
 
 ![7GoLlhcizVjvBqO](https://i.loli.net/2020/06/06/7GoLlhcizVjvBqO.gif)
