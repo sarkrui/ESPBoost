@@ -19,10 +19,10 @@ The ESPBoost is an ESP32 shield combines a **MPU6050** (3-axis gyro/acceleromete
 ### To-do
 
 - [ ]  Include support for ESP32 minikit 
-- [ ]  Incoporate daisy chain support over `SDA/SCL` with SN1.0 connectors
+- [ ]  Incoporate [daisy chain support](https://i.imgur.com/pLPUlMk.jpg) for ESP boards (e.g. [TTGO T-Base](https://www.aliexpress.com/item/32888680096.html)) that come with an i2c connector (consisting of`SDA/SCL/3.3/GND` )
 - [ ]  Add **ESPBoost-Input**, configured with 3-axis gyro/accelerometer (MPU6050), 12-pin capacitive sensor (MPR121q), FSR pull-down resistors
 - [ ]  Add **ESPBoost-Actuation**, consisting of 2 sets of `TB6612FNG`
-- [ ]  Add **ESPBoost-Power**, supporting battery charging, coverting 3.7V to 5V, 9V, 12V
+- [ ]  Add **ESPBoost-Power**, supporting battery charging, regulating voltage from 3.7V to 5V, 9V, 12V
 
 
 
