@@ -34,7 +34,27 @@ The ESPBoost is an ESP32 shield combines a **MPU6050** (3-axis gyro/acceleromete
 If you're interested in the field of Internet of Tangible Things, this shield may help. For sample inquiry, please drop me an email hi@pxing.design
 
 
+
+### BibTex
+
+```
+@inproceedings{DBLP:conf/ewsn/XingC21,
+  author    = {Sark Xing and
+               Yaliang Chuang},
+  title     = {ESPBoost: {A} Rapid Prototyping Toolkit for Helping Designers Create
+               the Internet of Tangible Things},
+  booktitle = {CHIIoT@EWSN/EICS},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2996},
+  publisher = {CEUR-WS.org},
+  year      = {2021}
+}
+```
+
+
+
 ### License
+
 MIT License
 
 Copyright (c) 2020 Sark Xing
